@@ -14,3 +14,7 @@ print(sub(2, 6))
 def mul(a, b){
 	return a * b
 }
+
+def dev(a, b){
+	return a // b # 주석
+}
