@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {g
       ),
       body: Container(
         child: Center(
-          child: Text('Steve Job'),
+          child: Text('Bill Gates , Microsoft'),
         ),
       ),
     );
