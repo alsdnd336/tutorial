@@ -11,7 +11,7 @@ class MyApp extends StatefulWidget {
   State<MyApp> createState() => _MyAppState();
 }
 
-class _MyAppState extends State<MyApp> {g
+class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -22,6 +22,14 @@ class _MyAppState extends State<MyApp> {g
             fontWeight: FontWeight.bold,
           ),
         ),
+        actions: [
+          IconButton(
+            onPressed: null,
+            icon: Icon(
+              Icons.add,
+            ),
+          ),
+        ],
       ),
       body: Container(
         child: Center(
