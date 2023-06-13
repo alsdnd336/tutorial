@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          '산책의 중요성',
+          'Hello my name is Steve Job, bill Gate just do it, watch clock pencil NoNo',
           style: TextStyle(
             fontWeight: FontWeight.bold,
           ),
