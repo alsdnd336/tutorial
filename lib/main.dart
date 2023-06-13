@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
       ),
       body: Container(
         child: Center(
-          child: Text('Steve Job, Think Differnet, commited dat'),
+          child: Text('Bill Gates , Microsoft'),
         ),
       ),
     );
